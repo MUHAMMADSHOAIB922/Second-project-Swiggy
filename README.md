@@ -22,5 +22,7 @@ Please also include the images folder.
 
 ## Demo
 
+![Screenshot (15)](https://github.com/MUHAMMADSHOAIB922/Second-project-Swiggy/assets/140330294/17d43d8c-2ea7-49e6-b966-0af91d3fef51)
 
+![Screenshot (16)](https://github.com/MUHAMMADSHOAIB922/Second-project-Swiggy/assets/140330294/8860a05e-7186-46f9-b808-e64483bc13c1)
 
